@@ -1,6 +1,13 @@
 # Text Editor in Python 
 This is a text editor application built using Streamlit and Python.
 
+Here is the GUI:
+![image](https://github.com/MuhammadAhmed-0/text-editor/assets/92883593/cb70b0e6-0910-4cb3-bf6a-3dafe0677df9)
+
+
+
+
+
 ## Features
 - **Text Editing:** Edit text with a customizable input box size.
 - **Word Count:** Get the word count of the entered text.
