@@ -12,7 +12,7 @@ This is a text editor application built using Streamlit and Python.
 
 ## How to Use
 1. Clone the repository to your local machine.
-2. Install the required dependencies using `pip install -r requirements.txt`.
-3. Run the application with Streamlit using `streamlit run app.py`.
+2. Install the required dependencies using `pip install streamlit`.
+3. Run the application with Streamlit using `streamlit run text-editor.py`.
 4. Enter your text in the provided text area.
-5. Utilize the features such as word count and download file as needed.
+5. Utilize the features such as word count and download files as needed.
